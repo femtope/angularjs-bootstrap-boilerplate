@@ -1,1 +1,3 @@
-# angularjs-bootstrap-boilerplate
+# AngularJS Bootstrap boilerplate
+
+Clone this repo
